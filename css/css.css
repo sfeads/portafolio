@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 10px 30px 14px 30px;
+}
+
+@font-face{
+    font-family:'Newsreader';
+    src: url(letra1.ttf);
+}
+
+h1{
+    font-family: 'Newsreader';
+    text-align: center;
+    color: #46C7DB;
+    margin: 30px 0px 30px 0px;
+}
+
+.Tablati{
+    text-align: center;
+    background: #3F78E8;
+    color: snow;
+    border-bottom-style: none;
+    font-family: monospace;
+    font-size: 20px;
+}
+table{
+    border: none 1px;
+    margin: 20px 40px 30px 40px;
+}
+
+.Texto_sec{
+    margin: 10ps 30px 0px 30px;
+    font-family: monospace;
+}
+
+.Titulo_texto{
+    color: #41ACF2;
+    font-family: monospace;
+}
+
+.Titulo_objetos{
+    color:#3FE8A0;
+    font-family: monospace;
+}
+
+.Titulo_texto_css{
+    color:#41ACF2;
+    font-family: monospace;
+}
+
+.Titulo_objetos_css{
+    color: #3F78E8;
+    font-family: monospace;
+}
+
+.Texto_11{
+    text-align: center;
+}
+
+h2{
+    font-family: monospace;
+}
+
+.Titulo_Propiedades{
+    color: #3F78E8;
+    margin: 50px 40px 20px 40px;
+}
+
+.Propiedades_1{
+    color: #46C7DB;
+}
+
+.Propiedades_2{
+    color: #41ACF2;
+}
+
+.Propiedades_3{
+    color: #41F2DA;
+}
+
+.Propiedades_4{
+    color: #3FE8A0;
+}
+
+tr{
+    border-style:double;
+}
+
+td{
+    border-style:none;
+}
+
+.Encabezado{
+    text-align: end;
+    color: #41ACF2;
+}
